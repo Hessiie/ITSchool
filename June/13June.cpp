@@ -25,8 +25,10 @@ int upper(char* str, int i = 0) {
 }
 
 bool prime(int n, int d = 2) {
-	if (n <= 2)
+	if (n <= 1)
 		return false;
+	if (n == 2)
+		return true;
 	if (n % d == 0)
 		return false;
 	if (d * d > n)
