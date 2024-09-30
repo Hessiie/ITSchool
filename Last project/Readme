@@ -1,0 +1,7 @@
+RPG Text-based game.
+
+Un mic joc in care tu esti eroul unui sat. Scopul proiectului a fost de a face un sablon in care poate fi adaugat orice idee.
+Sistem de: damage, armura, inventar, damage over time, abilitati si quest chains. Poate fi foarte usor dezoltat in continuare.
+Gameplay loop: incepi cu un inventar gol, level 1 si optiunea de a face quests. Ele sunt de diferite dificultati si playerul le poate completa in orice ordine vrea, dar ele avand o anumita ordine care va face jocul mai usor.
+Cum se ruleaza programul:
+Codul se poate copia, compila si rula folosind Visual Studio Code.
